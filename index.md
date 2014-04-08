@@ -4247,7 +4247,7 @@ Your browser does not support iframe
 
 ```r
 library(slidify)
-author("googleVis_Muenster_April_2014")
+author("googleVis_Tokyo_April_2014")
 ## Edit the file index.Rmd file and then
 slidify("index.Rmd")
 ```
