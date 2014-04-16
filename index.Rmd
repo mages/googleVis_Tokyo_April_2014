@@ -594,6 +594,6 @@ slidify("index.Rmd")
 ---
 ## Session Info
 
-```{r sessionInfo}
+```{r sessionInfo3}
 sessionInfo()
 ```
