@@ -165,7 +165,7 @@ plot(gvisMotionChart(Fruits, "Fruit", "Year",
 
 ---
 
-## googleVis version 0.5.0 provides interfaces to 
+## googleVis version 0.5.1 provides interfaces to 
 
 * Flash based
   * Motion Charts
@@ -234,7 +234,7 @@ plot(gvisScatterChart(df,options=list(lineWidth=2)))
 
 ---
 
-## Add additional columns to define roles
+## Add additional columns to define roles - NEW
 
 ```{r results='asis', tidy=FALSE}
 df <- data.frame(year=1:11, x=1:11,
